@@ -1,0 +1,10 @@
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+build/
+sourcemap.json
+.DS_Store
+
+# downloaded from Rojo's releases, no need to version it
+tools/linux/Rojo.rbxm
